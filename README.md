@@ -1,27 +1,27 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,40:2A220E,100:E0BE6A&height=260&section=header&text=KILIAN&fontSize=78&fontColor=E0BE6A&fontAlignY=40&desc=Developer%20%E2%80%A2%20Co-Founder%20%E2%80%A2%20Builder&descSize=18&descAlignY=63&descColor=F2E3B8&animation=fadeIn" width="100%" />
+  <img src="assets/header.svg" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=900&color=E0BE6A&center=true&vCenter=true&width=700&lines=I+build+systems+that+run+communities.;Custom+Discord+bots+in+Python.;Websites+that+move+as+you+scroll.;Automation+that+saves+hours+every+day.;N3XT+%C2%B7+Vibrance+Agency" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2600&pause=900&color=A1A1AA&center=true&vCenter=true&width=700&lines=I+build+systems+that+run+communities.;Custom+Discord+bots+in+Python.;Websites+that+move+as+you+scroll.;Automation+that+saves+hours+every+day.;N3XT+%C2%B7+Vibrance+Agency" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://n3xt-agency.com"><img src="https://img.shields.io/badge/N3XT-Discord%20Agency-E0BE6A?style=for-the-badge&logo=discord&logoColor=0D1117&labelColor=E0BE6A&color=161B22" /></a>
-  <a href="https://vibrance-agency.com"><img src="https://img.shields.io/badge/Vibrance-Web%20Agency-E0BE6A?style=for-the-badge&logo=googlechrome&logoColor=0D1117&labelColor=E0BE6A&color=161B22" /></a>
-  <img src="https://img.shields.io/badge/Nuremberg-Germany-E0BE6A?style=for-the-badge&logo=googlemaps&logoColor=0D1117&labelColor=E0BE6A&color=161B22" />
+  <a href="https://n3xt-agency.com"><img src="https://img.shields.io/badge/n3xt-discord%20agency-FFFFFF?style=for-the-badge&logo=discord&logoColor=18181B&labelColor=FFFFFF&color=F4F4F5" /></a>
+  <a href="https://vibrance-agency.com"><img src="https://img.shields.io/badge/vibrance-web%20agency-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=18181B&labelColor=FFFFFF&color=F4F4F5" /></a>
+  <img src="https://img.shields.io/badge/nuremberg-germany-FFFFFF?style=for-the-badge&logo=googlemaps&logoColor=18181B&labelColor=FFFFFF&color=F4F4F5" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kdi3110&label=Profile%20views&color=E0BE6A&style=flat-square&labelColor=161B22" />
-  <img src="https://img.shields.io/badge/Status-Open%20for%20projects-E0BE6A?style=flat-square&labelColor=161B22" />
-  <img src="https://img.shields.io/badge/Languages-DE%20%7C%20EN-E0BE6A?style=flat-square&labelColor=161B22" />
+  <img src="https://komarev.com/ghpvc/?username=kdi3110&label=profile%20views&color=F4F4F5&style=flat-square&labelColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/status-open%20for%20projects-F4F4F5?style=flat-square&labelColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/languages-de%20%7C%20en-F4F4F5?style=flat-square&labelColor=FFFFFF" />
 </p>
 
 <br>
 
 <!-- ABOUT -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:2A220E,100:0D1117&height=70&text=ABOUT&fontSize=34&fontColor=E0BE6A&fontAlignY=55" width="100%" />
+<img src="assets/about.svg" width="100%" />
 
 <h3 align="center">I don't just write code. I build systems people rely on every day.</h3>
 
@@ -53,7 +53,7 @@ class Kilian:
 <br>
 
 <!-- N3XT -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:2A220E,100:0D1117&height=70&text=N3XT&fontSize=34&fontColor=E0BE6A&fontAlignY=55" width="100%" />
+<img src="assets/n3xt.svg" width="100%" />
 
 <h3 align="center">Your Discord server, engineered – not just set up.</h3>
 
@@ -78,7 +78,7 @@ Most Discord servers run on a patchwork of public bots that were never built for
 <br>
 
 <!-- VIBRANCE -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:2A220E,100:0D1117&height=70&text=VIBRANCE&fontSize=34&fontColor=E0BE6A&fontAlignY=55" width="100%" />
+<img src="assets/vibrance.svg" width="100%" />
 
 <h3 align="center">Websites that move with every scroll.</h3>
 
@@ -102,7 +102,7 @@ A website is often the first thing people see of a brand. **Vibrance makes sure 
 <br>
 
 <!-- PROCESS -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:2A220E,100:0D1117&height=70&text=PROCESS&fontSize=34&fontColor=E0BE6A&fontAlignY=55" width="100%" />
+<img src="assets/process.svg" width="100%" />
 
 <h3 align="center">From first message to finished product.</h3>
 
@@ -124,10 +124,10 @@ Deployment, monitoring and long-term maintenance. When something changes, we han
 <br>
 
 <!-- STACK -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:2A220E,100:0D1117&height=70&text=TECH%20STACK&fontSize=34&fontColor=E0BE6A&fontAlignY=55" width="100%" />
+<img src="assets/tech-stack.svg" width="100%" />
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,discord,js,ts,html,css,react,nextjs,tailwind,java,git,github,vscode,cloudflare&perline=7&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,discord,js,ts,html,css,react,nextjs,tailwind,java,git,github,vscode,cloudflare&perline=7&theme=light" />
 </p>
 
 <details>
@@ -147,7 +147,7 @@ Deployment, monitoring and long-term maintenance. When something changes, we han
 <br>
 
 <!-- PRINCIPLES -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:2A220E,100:0D1117&height=70&text=PRINCIPLES&fontSize=34&fontColor=E0BE6A&fontAlignY=55" width="100%" />
+<img src="assets/principles.svg" width="100%" />
 
 **Clean Code** — Readable, documented and structured, so every project can grow without being rebuilt.
 
@@ -160,7 +160,7 @@ Deployment, monitoring and long-term maintenance. When something changes, we han
 <br>
 
 <!-- CONTACT -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:2A220E,100:0D1117&height=70&text=LET'S%20BUILD&fontSize=34&fontColor=E0BE6A&fontAlignY=55" width="100%" />
+<img src="assets/lets-build.svg" width="100%" />
 
 <h3 align="center">Have a project in mind?</h3>
 
@@ -170,10 +170,10 @@ Deployment, monitoring and long-term maintenance. When something changes, we han
 </p>
 
 <p align="center">
-  <a href="https://n3xt-agency.com"><img src="https://img.shields.io/badge/Discord%20project-N3XT-E0BE6A?style=for-the-badge&logo=discord&logoColor=0D1117&labelColor=E0BE6A&color=161B22" /></a>
-  <a href="https://vibrance-agency.com"><img src="https://img.shields.io/badge/Website%20project-Vibrance-E0BE6A?style=for-the-badge&logo=googlechrome&logoColor=0D1117&labelColor=E0BE6A&color=161B22" /></a>
+  <a href="https://n3xt-agency.com"><img src="https://img.shields.io/badge/discord%20project-n3xt-FFFFFF?style=for-the-badge&logo=discord&logoColor=18181B&labelColor=FFFFFF&color=F4F4F5" /></a>
+  <a href="https://vibrance-agency.com"><img src="https://img.shields.io/badge/website%20project-vibrance-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=18181B&labelColor=FFFFFF&color=F4F4F5" /></a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E0BE6A,50:2A220E,100:0D1117&height=130&section=footer" width="100%" />
+  <img src="assets/footer.svg" width="100%" />
 </p>
