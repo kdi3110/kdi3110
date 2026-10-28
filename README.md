@@ -140,7 +140,7 @@ Deployment, monitoring and long-term maintenance. When something changes, we han
 | **Discord** | discord.py, Discord API, Slash Commands, Webhooks |
 | **Web** | HTML, CSS, React, Next.js, Tailwind CSS |
 | **Infrastructure** | Git, GitHub, Cloudflare |
-| **Workflow** | VS Code, Customer Care |
+| **Workflow** | VS Code, AI assisted developpement |
 
 </details>
 
