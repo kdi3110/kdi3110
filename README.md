@@ -3,11 +3,10 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2600&pause=900&color=A1A1AA&center=true&vCenter=true&width=700&lines=I+build+systems+that+run+communities.;Custom+Discord+bots+in+Python.;Websites+that+move+as+you+scroll.;Automation+that+saves+hours+every+day.;N3XT+%C2%B7+Vibrance+Agency" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2600&pause=900&color=A1A1AA&center=true&vCenter=true&width=700&lines=I+build+systems+that+run+communities.;Custom+Discord+bots+in+Python.;Websites+that+move+as+you+scroll.;Automation+that+saves+hours+every+day.;Vibrance+Agency" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://n3xt-agency.com"><img src="https://img.shields.io/badge/n3xt-discord%20agency-FFFFFF?style=for-the-badge&logo=discord&logoColor=18181B&labelColor=FFFFFF&color=F4F4F5" /></a>
   <a href="https://vibrance-agency.com"><img src="https://img.shields.io/badge/vibrance-web%20agency-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=18181B&labelColor=FFFFFF&color=F4F4F5" /></a>
   <img src="https://img.shields.io/badge/nuremberg-germany-FFFFFF?style=for-the-badge&logo=googlemaps&logoColor=18181B&labelColor=FFFFFF&color=F4F4F5" />
 </p>
@@ -26,54 +25,25 @@
 <h3 align="center">I don't just write code. I build systems people rely on every day.</h3>
 
 <p align="center">
-  Developer and co-founder based in Nuremberg, running two agencies with one shared standard:<br>
+  Developer and founder based in Nuremberg, running Vibrance Agency with one clear standard:<br>
   <b>clean code, reliable infrastructure and design that leaves an impression.</b>
 </p>
 
 <p align="center">
-  With <b>N3XT</b> I build the backbone of Discord communities – custom bots, automation and server structures that scale.<br>
   With <b>Vibrance</b> I create websites that don't just inform, but move – with smooth, scroll-driven animations and a premium look.
 </p>
 
 ```python
 class Kilian:
-    role     = "Developer & Co-Founder"
+    role     = "Developer & Founder"
     location = "Nuremberg, Germany"
-    agencies = {
-        "N3XT":     "Discord bots & server infrastructure",
-        "Vibrance": "Websites with scroll-driven animations",
-    }
+    agency   = {"Vibrance": "Websites with scroll-driven animations"}
     stack    = ["Python", "discord.py", "JavaScript", "TypeScript", "Next.js"]
     values   = ["clean code", "reliability", "premium design"]
 
     def mission(self):
         return "Build things that work – and keep working."
 ```
-
-<br>
-
-<!-- N3XT -->
-<img src="assets/n3xt.svg" width="100%" />
-
-<h3 align="center">Your Discord server, engineered – not just set up.</h3>
-
-<p align="center">
-  <b>Co-Founder & Developer</b> · <a href="https://n3xt-agency.com">n3xt-agency.com</a>
-</p>
-
-Most Discord servers run on a patchwork of public bots that were never built for their community. **N3XT replaces that with one system built exactly for you** – designed, developed, hosted and maintained by one team.
-
-**What happens when you work with N3XT:**
-
-- **Server architecture** – We plan channels, categories, roles and permissions from scratch, so every member sees exactly what they should and moderators have full control.
-- **Custom bots in Python** – Bots built specifically for your server: slash commands, custom workflows, embeds and interactions that match your brand.
-- **Moderation & security** – Automated moderation, anti-spam and anti-raid protection, logging of every relevant action and clear escalation paths for your team.
-- **Ticket & support systems** – Structured support with categories, private channels, staff assignment and full transcripts for every ticket.
-- **Automation & integrations** – Welcome flows, verification, leveling, reaction roles, webhooks and connections to external APIs and services.
-- **Databases & backends** – Persistent data for user profiles, statistics and settings – stored securely and built to grow with your community.
-- **Hosting & maintenance** – 24/7 hosting, monitoring, updates for Discord API changes and fast fixes when something needs attention.
-
-> **The result:** a server that runs itself, scales with your community and gives your team more time for what actually matters.
 
 <br>
 
@@ -140,7 +110,7 @@ Deployment, monitoring and long-term maintenance. When something changes, we han
 | **Discord** | discord.py, Discord API, Slash Commands, Webhooks |
 | **Web** | HTML, CSS, React, Next.js, Tailwind CSS |
 | **Infrastructure** | Git, GitHub, Cloudflare |
-| **Workflow** | VS Code, AI assisted developpement |
+| **Workflow** | VS Code, AI-assisted development |
 
 </details>
 
@@ -170,7 +140,6 @@ Deployment, monitoring and long-term maintenance. When something changes, we han
 </p>
 
 <p align="center">
-  <a href="https://n3xt-agency.com"><img src="https://img.shields.io/badge/discord%20project-n3xt-FFFFFF?style=for-the-badge&logo=discord&logoColor=18181B&labelColor=FFFFFF&color=F4F4F5" /></a>
   <a href="https://vibrance-agency.com"><img src="https://img.shields.io/badge/website%20project-vibrance-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=18181B&labelColor=FFFFFF&color=F4F4F5" /></a>
 </p>
 
